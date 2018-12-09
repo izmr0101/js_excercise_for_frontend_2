@@ -22,12 +22,12 @@ const pDescription = document.getElementById('description');
 pDescription.innerHTML = '<strong>ここの説明文をJSで変更する</strong>';
 
 
- /**
-  * 課題3: img要素でid属性値が 'profile' のsrc属性値を変更する
-  *   - セットする画像は以下のいずれかで対応する
-  *     - 自分で用意する
-  *     - 「https://www.pakutaso.com/shared/img/thumb/TOMnemuiDSC01757_TP_V1.jpg」を使う
-  */
+/**
+ * 課題3: img要素でid属性値が 'profile' のsrc属性値を変更する
+ *   - セットする画像は以下のいずれかで対応する
+ *     - 自分で用意する
+ *     - 「https://www.pakutaso.com/shared/img/thumb/TOMnemuiDSC01757_TP_V1.jpg」を使う
+ */
 
 const imgProfile = document.getElementById('profile');
 
